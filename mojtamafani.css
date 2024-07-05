@@ -1,0 +1,192 @@
+@font-face {
+    font-family: "iransans";
+    src: url(./font/IranianSans.ttf);
+}
+.navmojtama {
+    padding: 7px 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    border-bottom: 1px solid #808080;
+}
+.navimgfani {
+    height: 75px;
+    width: 109px;
+    margin-left: 25px;
+    overflow: clip;
+    cursor: pointer;
+}
+.navspfani {
+    color: #90A4AE;
+    border-bottom: 2px solid transparent;
+    padding: 10px 15px;
+    font-size: 23px;
+    text-align: right;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.navspfani:hover {
+    color: #007aff;
+    border-bottom: 2px solid #007aff;
+}
+.navspfanihesab {
+    color: #555;
+    font-size: 23px;
+    cursor: pointer;
+}
+.naviconfani {
+background-color: #F5F7FE;
+border: 2px solid #F5F7FE;
+color: #6A89CC;
+height: 32px;
+width: 32px;
+border-radius: 50%;
+padding: 1px 6px;
+font-weight: 700px;
+overflow: hidden;
+text-align: center;
+display: flex;
+cursor: pointer;
+align-items: center;
+justify-content: center;
+margin-right: 200px;
+}
+.naviconfani1 {
+    background-color: #F5F7FE;
+border: 2px solid #F5F7FE;
+color: #6A89CC;
+height: 32px;
+width: 32px;
+border-radius: 50%;
+padding: 1px 6px;
+font-weight: 700px;
+overflow: hidden;
+text-align: center;
+display: flex;
+cursor: pointer;
+align-items: center;
+justify-content: center;
+}
+.naviconhesab {
+    color: #6A89CC;
+    cursor: pointer;
+}
+.secmojtama {
+    padding: 25px;
+    background: #fff;
+    border-radius: 25px;
+    box-shadow: 1px 3px 17px -10px #969696;
+    cursor: pointer;
+    vertical-align: middle;
+    position: relative;
+    display: grid;
+    align-items: start;
+    align-content: space-between;
+    cursor: pointer;
+    width:  247.5px;
+}
+.secimgfani13 {
+    position: relative;
+}
+.secimgfani {
+    height: 178px;
+    width: 100%;
+    margin: 7px -25px;
+    border-top-right-radius: 50px;
+    cursor: pointer;
+}
+
+.secpfani {
+    font-size: 21px;
+    font-weight: 700;
+    height: 72px;
+    width: 300px;
+    display: block;
+    cursor: pointer;
+}
+.secspghehoo {
+    display: flex;
+    margin-top: 5px;
+    height: 17px;
+    width: 217px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.secgheytarye {
+    color: #333;
+    font-size: 16px;
+    font-weight: 700;
+    height: 17px;
+    width: 108px;
+    cursor: pointer;
+}
+.sechozoori {
+    color: #999;
+    height: 17px;
+    width: 108px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.secptozihat {
+    color: #717684;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    height: 20px;
+    width: 237px;
+    cursor: pointer;
+}
+.secspgherya {
+    background: #f4f4f4;
+    text-align: center;
+    width: 70%;
+    border-radius: 0 0 50px 50px;
+    box-shadow: 0 10px 4px -9px #00000025;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+}
+.secspgheymat {
+    color: rgb(106, 137, 204);
+    height: 28px;
+    width: 217px;
+    font-size: 26px;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+}
+.secspryal {
+    color: #A0A6B7;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 50px;
+    text-align: end;
+    
+}
+.secimgtime {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
